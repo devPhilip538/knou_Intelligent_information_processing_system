@@ -1,0 +1,1 @@
+function [out] = d_tanh(a)  % 함수 정의 out = (1-a).*(1+a);         % tanh의 도함수값을 출력
